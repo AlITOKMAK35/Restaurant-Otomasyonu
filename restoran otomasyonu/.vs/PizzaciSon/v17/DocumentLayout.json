@@ -1,0 +1,713 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\pizzacison\\siparis\\indirim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|solutionrelative:pizzacison\\siparis\\indirim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|c:\\users\\ali\\desktop\\gt\\pizzacison\\pizzacison\\siparis\\indirim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|solutionrelative:pizzacison\\siparis\\indirim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\pizzacison\\siparis\\fisnotu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|solutionrelative:pizzacison\\siparis\\fisnotu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\pizzacison\\siparis\\fisnotu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|solutionrelative:pizzacison\\siparis\\fisnotu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\pizzacison\\siparis\\adres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|solutionrelative:pizzacison\\siparis\\adres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\pizzacison\\siparis\\adres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|solutionrelative:pizzacison\\siparis\\adres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|c:\\users\\ali\\desktop\\gt\\pizzacison\\pizzacison\\siparis\\siparisana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|solutionrelative:pizzacison\\siparis\\siparisana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\pizzacison\\siparis\\siparisana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|solutionrelative:pizzacison\\siparis\\siparisana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|c:\\users\\ali\\desktop\\gt\\pizzacison\\pizzacison\\raporlar\\zrapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|solutionrelative:pizzacison\\raporlar\\zrapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|c:\\users\\ali\\desktop\\gt\\pizzacison\\pizzacison\\raporlar\\zrapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|solutionrelative:pizzacison\\raporlar\\zrapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|c:\\users\\ali\\desktop\\gt\\pizzacison\\pizzacison\\raporlar\\raporlarana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|solutionrelative:pizzacison\\raporlar\\raporlarana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|c:\\users\\ali\\desktop\\gt\\pizzacison\\pizzacison\\raporlar\\raporlarana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|solutionrelative:pizzacison\\raporlar\\raporlarana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|c:\\users\\ali\\desktop\\gt\\pizzacison\\pizzacison\\raporlar\\paketservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|solutionrelative:pizzacison\\raporlar\\paketservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|c:\\users\\ali\\desktop\\gt\\pizzacison\\pizzacison\\raporlar\\paketservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|solutionrelative:pizzacison\\raporlar\\paketservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|c:\\users\\ali\\desktop\\gt\\pizzacison\\pizzacison\\raporlar\\adisyonrapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|solutionrelative:pizzacison\\raporlar\\adisyonrapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\pizzacison\\raporlar\\adisyonrapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|solutionrelative:pizzacison\\raporlar\\adisyonrapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|c:\\users\\ali\\desktop\\gt\\pizzacison\\pizzacison\\masalar\\salonmasalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|solutionrelative:pizzacison\\masalar\\salonmasalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\pizzacison\\masalar\\salonmasalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|solutionrelative:pizzacison\\masalar\\salonmasalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\pizzacison\\masalar\\bahcemasalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|solutionrelative:pizzacison\\masalar\\bahcemasalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\pizzacison\\masalar\\bahcemasalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|solutionrelative:pizzacison\\masalar\\bahcemasalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\pizzacison\\masalar\\acikmasalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|solutionrelative:pizzacison\\masalar\\acikmasalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\pizzacison\\masalar\\acikmasalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|solutionrelative:pizzacison\\masalar\\acikmasalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|c:\\users\\ali\\desktop\\gt\\pizzacison\\pizzacison\\ayarlar\\uruneklekaldir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|solutionrelative:pizzacison\\ayarlar\\uruneklekaldir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|c:\\users\\ali\\desktop\\gt\\pizzacison\\pizzacison\\ayarlar\\uruneklekaldir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|solutionrelative:pizzacison\\ayarlar\\uruneklekaldir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\pizzacison\\ayarlar\\urunduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|solutionrelative:pizzacison\\ayarlar\\urunduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|c:\\users\\ali\\desktop\\gt\\pizzacison\\pizzacison\\ayarlar\\urunduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|solutionrelative:pizzacison\\ayarlar\\urunduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|c:\\users\\ali\\desktop\\gt\\pizzacison\\pizzacison\\ayarlar\\masaeklekaldir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|solutionrelative:pizzacison\\ayarlar\\masaeklekaldir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|c:\\users\\ali\\desktop\\gt\\pizzacison\\pizzacison\\ayarlar\\masaeklekaldir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|solutionrelative:pizzacison\\ayarlar\\masaeklekaldir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|c:\\users\\ali\\desktop\\gt\\pizzacison\\pizzacison\\ayarlar\\ayarlargiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|solutionrelative:pizzacison\\ayarlar\\ayarlargiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|c:\\users\\ali\\desktop\\gt\\pizzacison\\pizzacison\\ayarlar\\ayarlargiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|solutionrelative:pizzacison\\ayarlar\\ayarlargiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|c:\\users\\ali\\desktop\\gt\\pizzacison\\pizzacison\\ayarlar\\ayarlarana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|solutionrelative:pizzacison\\ayarlar\\ayarlarana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|c:\\users\\ali\\desktop\\gt\\pizzacison\\pizzacison\\ayarlar\\ayarlarana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|solutionrelative:pizzacison\\ayarlar\\ayarlarana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\pizzacison\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|solutionrelative:pizzacison\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\pizzacison\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|solutionrelative:pizzacison\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|c:\\users\\ali\\desktop\\gt\\pizzacison\\pizzacison\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|solutionrelative:pizzacison\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|c:\\users\\ali\\desktop\\gt\\pizzacison\\pizzacison\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|solutionrelative:pizzacison\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\pizzacison\\stoktakibi\\fire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|solutionrelative:pizzacison\\stoktakibi\\fire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\pizzacison\\stoktakibi\\stoktakibiana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|solutionrelative:pizzacison\\stoktakibi\\stoktakibiana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\pizzacison\\gunlukgiderler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|solutionrelative:pizzacison\\gunlukgiderler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\pizzacison\\stoktakibi\\fire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|solutionrelative:pizzacison\\stoktakibi\\fire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\pizzacison\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|solutionrelative:pizzacison\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\pizzacison\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7E2CDE-77B3-476F-A9C9-7A69EE0AFF85}|PizzaciSon\\PizzaciSon.csproj|solutionrelative:pizzacison\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SiparisAna.cs",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Siparis\\SiparisAna.cs",
+              "RelativeDocumentMoniker": "PizzaciSon\\Siparis\\SiparisAna.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Siparis\\SiparisAna.cs",
+              "RelativeToolTip": "PizzaciSon\\Siparis\\SiparisAna.cs",
+              "ViewState": "AQIAAMsAAAAAAAAAAAAwwF0AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T20:07:57.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Indirim.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Siparis\\Indirim.cs",
+              "RelativeDocumentMoniker": "PizzaciSon\\Siparis\\Indirim.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Siparis\\Indirim.cs [Tasar\u0131m]",
+              "RelativeToolTip": "PizzaciSon\\Siparis\\Indirim.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T20:07:46.518Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ZRapor.cs",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Raporlar\\ZRapor.cs",
+              "RelativeDocumentMoniker": "PizzaciSon\\Raporlar\\ZRapor.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Raporlar\\ZRapor.cs",
+              "RelativeToolTip": "PizzaciSon\\Raporlar\\ZRapor.cs",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAwwNMAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T19:53:23.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ZRapor.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Raporlar\\ZRapor.cs",
+              "RelativeDocumentMoniker": "PizzaciSon\\Raporlar\\ZRapor.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Raporlar\\ZRapor.cs [Tasar\u0131m]",
+              "RelativeToolTip": "PizzaciSon\\Raporlar\\ZRapor.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T19:53:21.237Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RaporlarAna.cs",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Raporlar\\RaporlarAna.cs",
+              "RelativeDocumentMoniker": "PizzaciSon\\Raporlar\\RaporlarAna.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Raporlar\\RaporlarAna.cs",
+              "RelativeToolTip": "PizzaciSon\\Raporlar\\RaporlarAna.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T19:52:53.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Adres.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Siparis\\Adres.cs",
+              "RelativeDocumentMoniker": "PizzaciSon\\Siparis\\Adres.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Siparis\\Adres.cs [Tasar\u0131m]",
+              "RelativeToolTip": "PizzaciSon\\Siparis\\Adres.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:22:17.796Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Adres.cs",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Siparis\\Adres.cs",
+              "RelativeDocumentMoniker": "PizzaciSon\\Siparis\\Adres.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Siparis\\Adres.cs",
+              "RelativeToolTip": "PizzaciSon\\Siparis\\Adres.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:55:48.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FisNotu.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Siparis\\FisNotu.cs",
+              "RelativeDocumentMoniker": "PizzaciSon\\Siparis\\FisNotu.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Siparis\\FisNotu.cs [Tasar\u0131m]",
+              "RelativeToolTip": "PizzaciSon\\Siparis\\FisNotu.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:22:18.508Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Indirim.cs",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Siparis\\Indirim.cs",
+              "RelativeDocumentMoniker": "PizzaciSon\\Siparis\\Indirim.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Siparis\\Indirim.cs",
+              "RelativeToolTip": "PizzaciSon\\Siparis\\Indirim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:56:13.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FisNotu.cs",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Siparis\\FisNotu.cs",
+              "RelativeDocumentMoniker": "PizzaciSon\\Siparis\\FisNotu.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Siparis\\FisNotu.cs",
+              "RelativeToolTip": "PizzaciSon\\Siparis\\FisNotu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:56:07.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RaporlarAna.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Raporlar\\RaporlarAna.cs",
+              "RelativeDocumentMoniker": "PizzaciSon\\Raporlar\\RaporlarAna.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Raporlar\\RaporlarAna.cs [Tasar\u0131m]",
+              "RelativeToolTip": "PizzaciSon\\Raporlar\\RaporlarAna.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T19:52:52.359Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SiparisAna.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Siparis\\SiparisAna.cs",
+              "RelativeDocumentMoniker": "PizzaciSon\\Siparis\\SiparisAna.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Siparis\\SiparisAna.cs [Tasar\u0131m]",
+              "RelativeToolTip": "PizzaciSon\\Siparis\\SiparisAna.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:22:19.865Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PaketServis.cs",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Raporlar\\PaketServis.cs",
+              "RelativeDocumentMoniker": "PizzaciSon\\Raporlar\\PaketServis.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Raporlar\\PaketServis.cs",
+              "RelativeToolTip": "PizzaciSon\\Raporlar\\PaketServis.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAjwCEAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T19:51:20.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PaketServis.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Raporlar\\PaketServis.cs",
+              "RelativeDocumentMoniker": "PizzaciSon\\Raporlar\\PaketServis.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Raporlar\\PaketServis.cs [Tasar\u0131m]",
+              "RelativeToolTip": "PizzaciSon\\Raporlar\\PaketServis.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T19:51:19.062Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdisyonRapor.cs",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Raporlar\\AdisyonRapor.cs",
+              "RelativeDocumentMoniker": "PizzaciSon\\Raporlar\\AdisyonRapor.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Raporlar\\AdisyonRapor.cs",
+              "RelativeToolTip": "PizzaciSon\\Raporlar\\AdisyonRapor.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAWwCkAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T19:49:12.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SalonMasalar.cs",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Masalar\\SalonMasalar.cs",
+              "RelativeDocumentMoniker": "PizzaciSon\\Masalar\\SalonMasalar.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Masalar\\SalonMasalar.cs",
+              "RelativeToolTip": "PizzaciSon\\Masalar\\SalonMasalar.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAASwLEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T19:49:06.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UrunEkleKaldir.cs",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Ayarlar\\UrunEkleKaldir.cs",
+              "RelativeDocumentMoniker": "PizzaciSon\\Ayarlar\\UrunEkleKaldir.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Ayarlar\\UrunEkleKaldir.cs",
+              "RelativeToolTip": "PizzaciSon\\Ayarlar\\UrunEkleKaldir.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowHIAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T19:42:38.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AcikMasalar.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Masalar\\AcikMasalar.cs",
+              "RelativeDocumentMoniker": "PizzaciSon\\Masalar\\AcikMasalar.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Masalar\\AcikMasalar.cs [Tasar\u0131m]",
+              "RelativeToolTip": "PizzaciSon\\Masalar\\AcikMasalar.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:22:03.221Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AcikMasalar.cs",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Masalar\\AcikMasalar.cs",
+              "RelativeDocumentMoniker": "PizzaciSon\\Masalar\\AcikMasalar.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Masalar\\AcikMasalar.cs",
+              "RelativeToolTip": "PizzaciSon\\Masalar\\AcikMasalar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:47:09.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BahceMasalar.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Masalar\\BahceMasalar.cs",
+              "RelativeDocumentMoniker": "PizzaciSon\\Masalar\\BahceMasalar.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Masalar\\BahceMasalar.cs [Tasar\u0131m]",
+              "RelativeToolTip": "PizzaciSon\\Masalar\\BahceMasalar.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:22:04.04Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BahceMasalar.cs",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Masalar\\BahceMasalar.cs",
+              "RelativeDocumentMoniker": "PizzaciSon\\Masalar\\BahceMasalar.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Masalar\\BahceMasalar.cs",
+              "RelativeToolTip": "PizzaciSon\\Masalar\\BahceMasalar.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAASwK0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:47:09.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SalonMasalar.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Masalar\\SalonMasalar.cs",
+              "RelativeDocumentMoniker": "PizzaciSon\\Masalar\\SalonMasalar.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Masalar\\SalonMasalar.cs [Tasar\u0131m]",
+              "RelativeToolTip": "PizzaciSon\\Masalar\\SalonMasalar.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:22:04.957Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdisyonRapor.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Raporlar\\AdisyonRapor.cs",
+              "RelativeDocumentMoniker": "PizzaciSon\\Raporlar\\AdisyonRapor.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Raporlar\\AdisyonRapor.cs [Tasar\u0131m]",
+              "RelativeToolTip": "PizzaciSon\\Raporlar\\AdisyonRapor.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:22:11.569Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UrunEkleKaldir.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Ayarlar\\UrunEkleKaldir.cs",
+              "RelativeDocumentMoniker": "PizzaciSon\\Ayarlar\\UrunEkleKaldir.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Ayarlar\\UrunEkleKaldir.cs [Tasar\u0131m]",
+              "RelativeToolTip": "PizzaciSon\\Ayarlar\\UrunEkleKaldir.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T19:42:36.385Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UrunDuzenle.cs",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Ayarlar\\UrunDuzenle.cs",
+              "RelativeDocumentMoniker": "PizzaciSon\\Ayarlar\\UrunDuzenle.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Ayarlar\\UrunDuzenle.cs",
+              "RelativeToolTip": "PizzaciSon\\Ayarlar\\UrunDuzenle.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAADgv2wAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:47:09.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UrunDuzenle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Ayarlar\\UrunDuzenle.cs",
+              "RelativeDocumentMoniker": "PizzaciSon\\Ayarlar\\UrunDuzenle.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Ayarlar\\UrunDuzenle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "PizzaciSon\\Ayarlar\\UrunDuzenle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T19:40:15.377Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MasaEkleKaldir.cs",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Ayarlar\\MasaEkleKaldir.cs",
+              "RelativeDocumentMoniker": "PizzaciSon\\Ayarlar\\MasaEkleKaldir.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Ayarlar\\MasaEkleKaldir.cs",
+              "RelativeToolTip": "PizzaciSon\\Ayarlar\\MasaEkleKaldir.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAD4v9QAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T19:35:29.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MasaEkleKaldir.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Ayarlar\\MasaEkleKaldir.cs",
+              "RelativeDocumentMoniker": "PizzaciSon\\Ayarlar\\MasaEkleKaldir.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Ayarlar\\MasaEkleKaldir.cs [Tasar\u0131m]",
+              "RelativeToolTip": "PizzaciSon\\Ayarlar\\MasaEkleKaldir.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T19:35:24.638Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AyarlarGiris.cs",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Ayarlar\\AyarlarGiris.cs",
+              "RelativeDocumentMoniker": "PizzaciSon\\Ayarlar\\AyarlarGiris.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Ayarlar\\AyarlarGiris.cs",
+              "RelativeToolTip": "PizzaciSon\\Ayarlar\\AyarlarGiris.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T19:35:10.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AyarlarGiris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Ayarlar\\AyarlarGiris.cs",
+              "RelativeDocumentMoniker": "PizzaciSon\\Ayarlar\\AyarlarGiris.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Ayarlar\\AyarlarGiris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "PizzaciSon\\Ayarlar\\AyarlarGiris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T19:35:09.072Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AyarlarAna.cs",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Ayarlar\\AyarlarAna.cs",
+              "RelativeDocumentMoniker": "PizzaciSon\\Ayarlar\\AyarlarAna.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Ayarlar\\AyarlarAna.cs",
+              "RelativeToolTip": "PizzaciSon\\Ayarlar\\AyarlarAna.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T19:35:05.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AyarlarAna.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Ayarlar\\AyarlarAna.cs",
+              "RelativeDocumentMoniker": "PizzaciSon\\Ayarlar\\AyarlarAna.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Ayarlar\\AyarlarAna.cs [Tasar\u0131m]",
+              "RelativeToolTip": "PizzaciSon\\Ayarlar\\AyarlarAna.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T19:35:04.161Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Anasayfa.cs",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Anasayfa.cs",
+              "RelativeDocumentMoniker": "PizzaciSon\\Anasayfa.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Anasayfa.cs",
+              "RelativeToolTip": "PizzaciSon\\Anasayfa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T19:31:21.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Anasayfa.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Anasayfa.cs",
+              "RelativeDocumentMoniker": "PizzaciSon\\Anasayfa.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Anasayfa.cs [Tasar\u0131m]",
+              "RelativeToolTip": "PizzaciSon\\Anasayfa.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:21:52.315Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Giris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Giris.cs",
+              "RelativeDocumentMoniker": "PizzaciSon\\Giris.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Giris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "PizzaciSon\\Giris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:21:54.864Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Giris.cs",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Giris.cs",
+              "RelativeDocumentMoniker": "PizzaciSon\\Giris.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Giris.cs",
+              "RelativeToolTip": "PizzaciSon\\Giris.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:47:09.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Fire.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\StokTakibi\\Fire.cs",
+              "RelativeDocumentMoniker": "PizzaciSon\\StokTakibi\\Fire.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\StokTakibi\\Fire.cs [Tasar\u0131m]",
+              "RelativeToolTip": "PizzaciSon\\StokTakibi\\Fire.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:22:34.99Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "StokTakibiAna.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\StokTakibi\\StokTakibiAna.cs",
+              "RelativeDocumentMoniker": "PizzaciSon\\StokTakibi\\StokTakibiAna.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\StokTakibi\\StokTakibiAna.cs [Tasar\u0131m]",
+              "RelativeToolTip": "PizzaciSon\\StokTakibi\\StokTakibiAna.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:22:35.695Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GunlukGiderler.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\GunlukGiderler.cs",
+              "RelativeDocumentMoniker": "PizzaciSon\\GunlukGiderler.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\GunlukGiderler.cs [Tasar\u0131m]",
+              "RelativeToolTip": "PizzaciSon\\GunlukGiderler.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:21:58.052Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Fire.cs",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\StokTakibi\\Fire.cs",
+              "RelativeDocumentMoniker": "PizzaciSon\\StokTakibi\\Fire.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\StokTakibi\\Fire.cs",
+              "RelativeToolTip": "PizzaciSon\\StokTakibi\\Fire.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:57:12.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Program.cs",
+              "RelativeDocumentMoniker": "PizzaciSon\\Program.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\Program.cs",
+              "RelativeToolTip": "PizzaciSon\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:47:09.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\App.config",
+              "RelativeDocumentMoniker": "PizzaciSon\\App.config",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\PizzaciSon\\PizzaciSon\\App.config",
+              "RelativeToolTip": "PizzaciSon\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-14T11:47:09.633Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

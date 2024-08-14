@@ -1,0 +1,168 @@
+C:\Users\ALİ TOKMAK\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.csproj.AssemblyReference.cache
+C:\Users\ALİ TOKMAK\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Anasayfa.resources
+C:\Users\ALİ TOKMAK\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Ayarlar.AyarlarAna.resources
+C:\Users\ALİ TOKMAK\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Ayarlar.AyarlarGiris.resources
+C:\Users\ALİ TOKMAK\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Ayarlar.MasaEkleKaldir.resources
+C:\Users\ALİ TOKMAK\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Ayarlar.UrunDuzenle.resources
+C:\Users\ALİ TOKMAK\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Ayarlar.UrunEkleKaldir.resources
+C:\Users\ALİ TOKMAK\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Giris.resources
+C:\Users\ALİ TOKMAK\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.GunlukGiderler.resources
+C:\Users\ALİ TOKMAK\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Masalar.AcikMasalar.resources
+C:\Users\ALİ TOKMAK\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Masalar.BahceMasalar.resources
+C:\Users\ALİ TOKMAK\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Masalar.SalonMasalar.resources
+C:\Users\ALİ TOKMAK\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Properties.Resources.resources
+C:\Users\ALİ TOKMAK\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Raporlar.AdisyonRapor.resources
+C:\Users\ALİ TOKMAK\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Raporlar.PaketServis.resources
+C:\Users\ALİ TOKMAK\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Raporlar.RaporlarAna.resources
+C:\Users\ALİ TOKMAK\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Raporlar.ZRapor.resources
+C:\Users\ALİ TOKMAK\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Siparis.Adres.resources
+C:\Users\ALİ TOKMAK\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Siparis.FisNotu.resources
+C:\Users\ALİ TOKMAK\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Siparis.Indirim.resources
+C:\Users\ALİ TOKMAK\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Siparis.SiparisAna.resources
+C:\Users\ALİ TOKMAK\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Siparis.Tahsilat.resources
+C:\Users\ALİ TOKMAK\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Siparis.Telefon.resources
+C:\Users\ALİ TOKMAK\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.StokTakibi.Fire.resources
+C:\Users\ALİ TOKMAK\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.StokTakibi.StokIcecek.resources
+C:\Users\ALİ TOKMAK\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.StokTakibi.StokTakibiAna.resources
+C:\Users\ALİ TOKMAK\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.StokTakibi.StokYiyecek.resources
+C:\Users\ALİ TOKMAK\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.csproj.GenerateResource.cache
+C:\Users\ALİ TOKMAK\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.csproj.CoreCompileInputs.cache
+C:\Users\ALİ TOKMAK\Source\Repos\PizzaciSon\PizzaciSon\bin\Debug\PizzaciSon.exe.config
+C:\Users\ALİ TOKMAK\Source\Repos\PizzaciSon\PizzaciSon\bin\Debug\PizzaciSon.exe
+C:\Users\ALİ TOKMAK\Source\Repos\PizzaciSon\PizzaciSon\bin\Debug\PizzaciSon.pdb
+C:\Users\ALİ TOKMAK\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.csproj.CopyComplete
+C:\Users\ALİ TOKMAK\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.exe
+C:\Users\ALİ TOKMAK\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.pdb
+C:\Users\ALİ TOKMAK\Source\Repos\PizzaciSon\PizzaciSon\bin\Debug\Bunifu.Charts.WinForms.xml
+C:\Users\ALİ TOKMAK\Source\Repos\PizzaciSon\PizzaciSon\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\ALİ TOKMAK\Source\Repos\PizzaciSon\PizzaciSon\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\ALİ TOKMAK\Source\Repos\PizzaciSon\PizzaciSon\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\ALİ TOKMAK\Source\Repos\PizzaciSon\PizzaciSon\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ALİ TOKMAK\Source\Repos\PizzaciSon\PizzaciSon\bin\Debug\RestSharp.xml
+C:\Users\ALİ TOKMAK\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.csproj.Fody.CopyLocal.cache
+D:\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\bin\Debug\PizzaciSon.exe.config
+D:\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\bin\Debug\PizzaciSon.exe
+D:\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\bin\Debug\PizzaciSon.pdb
+D:\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\bin\Debug\Bunifu.Charts.WinForms.xml
+D:\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\bin\Debug\Bunifu.Dataviz.WinForms.xml
+D:\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\bin\Debug\Bunifu.UI.WinForms.xml
+D:\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\bin\Debug\Newtonsoft.Json.xml
+D:\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\bin\Debug\RestSharp.xml
+D:\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.csproj.AssemblyReference.cache
+D:\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Anasayfa.resources
+D:\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Ayarlar.AyarlarAna.resources
+D:\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Ayarlar.AyarlarGiris.resources
+D:\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Ayarlar.MasaEkleKaldir.resources
+D:\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Ayarlar.UrunDuzenle.resources
+D:\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Ayarlar.UrunEkleKaldir.resources
+D:\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Giris.resources
+D:\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.GunlukGiderler.resources
+D:\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Masalar.AcikMasalar.resources
+D:\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Masalar.BahceMasalar.resources
+D:\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Masalar.SalonMasalar.resources
+D:\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Properties.Resources.resources
+D:\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Raporlar.AdisyonRapor.resources
+D:\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Raporlar.PaketServis.resources
+D:\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Raporlar.RaporlarAna.resources
+D:\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Raporlar.ZRapor.resources
+D:\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Siparis.Adres.resources
+D:\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Siparis.FisNotu.resources
+D:\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Siparis.Indirim.resources
+D:\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Siparis.SiparisAna.resources
+D:\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Siparis.Tahsilat.resources
+D:\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Siparis.Telefon.resources
+D:\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.StokTakibi.Fire.resources
+D:\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.StokTakibi.StokIcecek.resources
+D:\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.StokTakibi.StokTakibiAna.resources
+D:\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.StokTakibi.StokYiyecek.resources
+D:\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.csproj.GenerateResource.cache
+D:\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.csproj.CoreCompileInputs.cache
+D:\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.csproj.Fody.CopyLocal.cache
+D:\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.csproj.Up2Date
+D:\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.exe
+D:\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.pdb
+C:\SONNNNN\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\bin\Debug\PizzaciSon.exe.config
+C:\SONNNNN\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\bin\Debug\PizzaciSon.exe
+C:\SONNNNN\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\bin\Debug\PizzaciSon.pdb
+C:\SONNNNN\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\bin\Debug\Bunifu.Charts.WinForms.xml
+C:\SONNNNN\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\SONNNNN\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\bin\Debug\Bunifu.UI.WinForms.xml
+C:\SONNNNN\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\SONNNNN\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\bin\Debug\Newtonsoft.Json.xml
+C:\SONNNNN\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\bin\Debug\RestSharp.xml
+C:\SONNNNN\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.csproj.AssemblyReference.cache
+C:\SONNNNN\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Anasayfa.resources
+C:\SONNNNN\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Ayarlar.AyarlarAna.resources
+C:\SONNNNN\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Ayarlar.AyarlarGiris.resources
+C:\SONNNNN\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Ayarlar.MasaEkleKaldir.resources
+C:\SONNNNN\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Ayarlar.UrunDuzenle.resources
+C:\SONNNNN\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Ayarlar.UrunEkleKaldir.resources
+C:\SONNNNN\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Giris.resources
+C:\SONNNNN\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.GunlukGiderler.resources
+C:\SONNNNN\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Masalar.AcikMasalar.resources
+C:\SONNNNN\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Masalar.BahceMasalar.resources
+C:\SONNNNN\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Masalar.SalonMasalar.resources
+C:\SONNNNN\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Properties.Resources.resources
+C:\SONNNNN\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Raporlar.AdisyonRapor.resources
+C:\SONNNNN\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Raporlar.PaketServis.resources
+C:\SONNNNN\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Raporlar.RaporlarAna.resources
+C:\SONNNNN\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Raporlar.ZRapor.resources
+C:\SONNNNN\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Siparis.Adres.resources
+C:\SONNNNN\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Siparis.FisNotu.resources
+C:\SONNNNN\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Siparis.Indirim.resources
+C:\SONNNNN\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Siparis.SiparisAna.resources
+C:\SONNNNN\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Siparis.Tahsilat.resources
+C:\SONNNNN\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Siparis.Telefon.resources
+C:\SONNNNN\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.StokTakibi.Fire.resources
+C:\SONNNNN\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.StokTakibi.StokIcecek.resources
+C:\SONNNNN\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.StokTakibi.StokTakibiAna.resources
+C:\SONNNNN\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.StokTakibi.StokYiyecek.resources
+C:\SONNNNN\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.csproj.GenerateResource.cache
+C:\SONNNNN\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.csproj.CoreCompileInputs.cache
+C:\SONNNNN\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.csproj.Fody.CopyLocal.cache
+C:\SONNNNN\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.csproj.Up2Date
+C:\SONNNNN\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.exe
+C:\SONNNNN\Harici Disk\Source\Repos\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.pdb
+C:\Users\ali\Desktop\gt\PizzaciSon\PizzaciSon\bin\Debug\PizzaciSon.exe.config
+C:\Users\ali\Desktop\gt\PizzaciSon\PizzaciSon\bin\Debug\PizzaciSon.exe
+C:\Users\ali\Desktop\gt\PizzaciSon\PizzaciSon\bin\Debug\PizzaciSon.pdb
+C:\Users\ali\Desktop\gt\PizzaciSon\PizzaciSon\bin\Debug\Bunifu.Charts.WinForms.xml
+C:\Users\ali\Desktop\gt\PizzaciSon\PizzaciSon\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\ali\Desktop\gt\PizzaciSon\PizzaciSon\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\ali\Desktop\gt\PizzaciSon\PizzaciSon\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\ali\Desktop\gt\PizzaciSon\PizzaciSon\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ali\Desktop\gt\PizzaciSon\PizzaciSon\bin\Debug\RestSharp.xml
+C:\Users\ali\Desktop\gt\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.csproj.AssemblyReference.cache
+C:\Users\ali\Desktop\gt\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Anasayfa.resources
+C:\Users\ali\Desktop\gt\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Ayarlar.AyarlarAna.resources
+C:\Users\ali\Desktop\gt\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Ayarlar.AyarlarGiris.resources
+C:\Users\ali\Desktop\gt\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Ayarlar.MasaEkleKaldir.resources
+C:\Users\ali\Desktop\gt\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Ayarlar.UrunDuzenle.resources
+C:\Users\ali\Desktop\gt\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Ayarlar.UrunEkleKaldir.resources
+C:\Users\ali\Desktop\gt\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Giris.resources
+C:\Users\ali\Desktop\gt\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.GunlukGiderler.resources
+C:\Users\ali\Desktop\gt\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Masalar.AcikMasalar.resources
+C:\Users\ali\Desktop\gt\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Masalar.BahceMasalar.resources
+C:\Users\ali\Desktop\gt\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Masalar.SalonMasalar.resources
+C:\Users\ali\Desktop\gt\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Properties.Resources.resources
+C:\Users\ali\Desktop\gt\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Raporlar.AdisyonRapor.resources
+C:\Users\ali\Desktop\gt\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Raporlar.PaketServis.resources
+C:\Users\ali\Desktop\gt\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Raporlar.RaporlarAna.resources
+C:\Users\ali\Desktop\gt\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Raporlar.ZRapor.resources
+C:\Users\ali\Desktop\gt\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Siparis.Adres.resources
+C:\Users\ali\Desktop\gt\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Siparis.FisNotu.resources
+C:\Users\ali\Desktop\gt\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Siparis.Indirim.resources
+C:\Users\ali\Desktop\gt\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Siparis.SiparisAna.resources
+C:\Users\ali\Desktop\gt\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Siparis.Tahsilat.resources
+C:\Users\ali\Desktop\gt\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.Siparis.Telefon.resources
+C:\Users\ali\Desktop\gt\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.StokTakibi.Fire.resources
+C:\Users\ali\Desktop\gt\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.StokTakibi.StokIcecek.resources
+C:\Users\ali\Desktop\gt\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.StokTakibi.StokTakibiAna.resources
+C:\Users\ali\Desktop\gt\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.StokTakibi.StokYiyecek.resources
+C:\Users\ali\Desktop\gt\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.csproj.GenerateResource.cache
+C:\Users\ali\Desktop\gt\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.csproj.CoreCompileInputs.cache
+C:\Users\ali\Desktop\gt\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.csproj.Fody.CopyLocal.cache
+C:\Users\ali\Desktop\gt\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.csproj.Up2Date
+C:\Users\ali\Desktop\gt\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.exe
+C:\Users\ali\Desktop\gt\PizzaciSon\PizzaciSon\obj\Debug\PizzaciSon.pdb
